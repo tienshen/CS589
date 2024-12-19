@@ -1,4 +1,4 @@
-# CS589 Machine Learning 
+# Machine Learning (CS589)
 
 Cosist of 4 coding assignments
 
